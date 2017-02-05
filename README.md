@@ -1,2 +1,7 @@
 # hello-world
-My first repo...
+
+Hi Humans! 
+
+Hubot here, I like Node.js and Coffescript (that's what I'm made of!). 
+I've had tacos on the moon and find them for superior to eart tacos. 
+
